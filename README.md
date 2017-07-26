@@ -1,4 +1,4 @@
 # CellLeftSlip
 微信 TableViewCell 左滑
 
-仿写微信 简书 cell左滑出来自定义按钮
+![](/Users/jiangdongzhang/Desktop/屏幕快照 2017-07-26 17.01.07.png)
